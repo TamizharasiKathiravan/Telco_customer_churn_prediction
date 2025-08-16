@@ -15,7 +15,7 @@ Cleaned categorical features and removed duplicates.
 
 Clone the repo:
 
-git clone https://github.com/your-username/churn-preprocessing.git
+git clone https://github.com/your-TamizharasiKathiravan/churn-preprocessing.git
 cd churn-preprocessing
 
 
